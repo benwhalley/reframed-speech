@@ -1,0 +1,2 @@
+pydub
+# plus ffmpeg on the system for m4a files to load
